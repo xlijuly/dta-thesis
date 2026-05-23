@@ -1,0 +1,32 @@
+[
+  {
+    "valence": 67,
+    "arousal": 55,
+    "dominance": 58,
+    "item_id": "rs_1"
+  },
+  {
+    "valence": 92,
+    "arousal": 78,
+    "dominance": 68,
+    "item_id": "rs_2"
+  },
+  {
+    "valence": 50,
+    "arousal": 50,
+    "dominance": 50,
+    "item_id": "rs_3"
+  },
+  {
+    "valence": 58,
+    "arousal": 42,
+    "dominance": 54,
+    "item_id": "rs_4"
+  },
+  {
+    "valence": 72,
+    "arousal": 60,
+    "dominance": 65,
+    "item_id": "rs_5"
+  }
+]

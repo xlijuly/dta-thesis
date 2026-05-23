@@ -1,0 +1,602 @@
+[
+  {
+    "valence": 74,
+    "arousal": 58,
+    "dominance": 56,
+    "item_id": "rs_1"
+  },
+  {
+    "valence": 94,
+    "arousal": 82,
+    "dominance": 68,
+    "item_id": "rs_2"
+  },
+  {
+    "valence": 50,
+    "arousal": 38,
+    "dominance": 52,
+    "item_id": "rs_3"
+  },
+  {
+    "valence": 56,
+    "arousal": 41,
+    "dominance": 58,
+    "item_id": "rs_4"
+  },
+  {
+    "valence": 55,
+    "arousal": 65,
+    "dominance": 70,
+    "item_id": "rs_5"
+  },
+  {
+    "valence": 57,
+    "arousal": 55,
+    "dominance": 72,
+    "item_id": "rs_6"
+  },
+  {
+    "valence": 12,
+    "arousal": 82,
+    "dominance": 38,
+    "item_id": "rs_7"
+  },
+  {
+    "valence": 60,
+    "arousal": 40,
+    "dominance": 55,
+    "item_id": "rs_8"
+  },
+  {
+    "valence": 10,
+    "arousal": 80,
+    "dominance": 60,
+    "item_id": "rs_9"
+  },
+  {
+    "valence": 60,
+    "arousal": 54,
+    "dominance": 55,
+    "item_id": "rs_10"
+  },
+  {
+    "valence": 62,
+    "arousal": 41,
+    "dominance": 45,
+    "item_id": "rs_11"
+  },
+  {
+    "valence": 27,
+    "arousal": 68,
+    "dominance": 61,
+    "item_id": "rs_12"
+  },
+  {
+    "valence": 75,
+    "arousal": 82,
+    "dominance": 63,
+    "item_id": "rs_13"
+  },
+  {
+    "valence": 15,
+    "arousal": 70,
+    "dominance": 30,
+    "item_id": "rs_14"
+  },
+  {
+    "valence": 82,
+    "arousal": 61,
+    "dominance": 74,
+    "item_id": "rs_15"
+  },
+  {
+    "valence": 60,
+    "arousal": 40,
+    "dominance": 55,
+    "item_id": "rs_16"
+  },
+  {
+    "valence": 92,
+    "arousal": 68,
+    "dominance": 63,
+    "item_id": "rs_17"
+  },
+  {
+    "valence": 58,
+    "arousal": 54,
+    "dominance": 62,
+    "item_id": "rs_18"
+  },
+  {
+    "valence": 35,
+    "arousal": 45,
+    "dominance": 30,
+    "item_id": "rs_19"
+  },
+  {
+    "valence": 40,
+    "arousal": 55,
+    "dominance": 42,
+    "item_id": "rs_20"
+  },
+  {
+    "valence": 62,
+    "arousal": 46,
+    "dominance": 58,
+    "item_id": "rs_21"
+  },
+  {
+    "valence": 20,
+    "arousal": 65,
+    "dominance": 60,
+    "item_id": "rs_22"
+  },
+  {
+    "valence": 67,
+    "arousal": 38,
+    "dominance": 54,
+    "item_id": "rs_23"
+  },
+  {
+    "valence": 62,
+    "arousal": 58,
+    "dominance": 55,
+    "item_id": "rs_24"
+  },
+  {
+    "valence": 38,
+    "arousal": 58,
+    "dominance": 62,
+    "item_id": "rs_25"
+  },
+  {
+    "valence": 20,
+    "arousal": 65,
+    "dominance": 70,
+    "item_id": "rs_26"
+  },
+  {
+    "valence": 30,
+    "arousal": 54,
+    "dominance": 61,
+    "item_id": "rs_27"
+  },
+  {
+    "valence": 75,
+    "arousal": 55,
+    "dominance": 60,
+    "item_id": "rs_28"
+  },
+  {
+    "valence": 30,
+    "arousal": 42,
+    "dominance": 55,
+    "item_id": "rs_29"
+  },
+  {
+    "valence": 75,
+    "arousal": 62,
+    "dominance": 66,
+    "item_id": "rs_30"
+  },
+  {
+    "valence": 74,
+    "arousal": 56,
+    "dominance": 58,
+    "item_id": "rs_31"
+  },
+  {
+    "valence": 72,
+    "arousal": 64,
+    "dominance": 58,
+    "item_id": "rs_32"
+  },
+  {
+    "valence": 25,
+    "arousal": 65,
+    "dominance": 30,
+    "item_id": "rs_33"
+  },
+  {
+    "valence": 62,
+    "arousal": 86,
+    "dominance": 54,
+    "item_id": "rs_34"
+  },
+  {
+    "valence": 78,
+    "arousal": 58,
+    "dominance": 56,
+    "item_id": "rs_35"
+  },
+  {
+    "valence": 12,
+    "arousal": 68,
+    "dominance": 63,
+    "item_id": "rs_36"
+  },
+  {
+    "valence": 85,
+    "arousal": 75,
+    "dominance": 65,
+    "item_id": "rs_37"
+  },
+  {
+    "valence": 40,
+    "arousal": 44,
+    "dominance": 55,
+    "item_id": "rs_38"
+  },
+  {
+    "valence": 62,
+    "arousal": 54,
+    "dominance": 52,
+    "item_id": "rs_39"
+  },
+  {
+    "valence": 62,
+    "arousal": 55,
+    "dominance": 58,
+    "item_id": "rs_40"
+  },
+  {
+    "valence": 72,
+    "arousal": 45,
+    "dominance": 58,
+    "item_id": "rs_41"
+  },
+  {
+    "valence": 80,
+    "arousal": 65,
+    "dominance": 60,
+    "item_id": "rs_42"
+  },
+  {
+    "valence": 72,
+    "arousal": 60,
+    "dominance": 58,
+    "item_id": "rs_43"
+  },
+  {
+    "valence": 35,
+    "arousal": 45,
+    "dominance": 65,
+    "item_id": "rs_44"
+  },
+  {
+    "valence": 85,
+    "arousal": 82,
+    "dominance": 63,
+    "item_id": "rs_45"
+  },
+  {
+    "valence": 42,
+    "arousal": 55,
+    "dominance": 48,
+    "item_id": "rs_46"
+  },
+  {
+    "valence": 78,
+    "arousal": 74,
+    "dominance": 68,
+    "item_id": "rs_47"
+  },
+  {
+    "valence": 72,
+    "arousal": 56,
+    "dominance": 54,
+    "item_id": "rs_48"
+  },
+  {
+    "valence": 72,
+    "arousal": 56,
+    "dominance": 58,
+    "item_id": "rs_49"
+  },
+  {
+    "valence": 20,
+    "arousal": 55,
+    "dominance": 25,
+    "item_id": "rs_50"
+  },
+  {
+    "valence": 38,
+    "arousal": 42,
+    "dominance": 55,
+    "item_id": "rs_51"
+  },
+  {
+    "valence": 42,
+    "arousal": 34,
+    "dominance": 56,
+    "item_id": "rs_52"
+  },
+  {
+    "valence": 56,
+    "arousal": 44,
+    "dominance": 53,
+    "item_id": "rs_53"
+  },
+  {
+    "valence": 82,
+    "arousal": 62,
+    "dominance": 56,
+    "item_id": "rs_54"
+  },
+  {
+    "valence": 82,
+    "arousal": 61,
+    "dominance": 44,
+    "item_id": "rs_55"
+  },
+  {
+    "valence": 62,
+    "arousal": 58,
+    "dominance": 41,
+    "item_id": "rs_56"
+  },
+  {
+    "valence": 58,
+    "arousal": 56,
+    "dominance": 54,
+    "item_id": "rs_57"
+  },
+  {
+    "valence": 78,
+    "arousal": 56,
+    "dominance": 58,
+    "item_id": "rs_58"
+  },
+  {
+    "valence": 62,
+    "arousal": 56,
+    "dominance": 52,
+    "item_id": "rs_59"
+  },
+  {
+    "valence": 18,
+    "arousal": 68,
+    "dominance": 32,
+    "item_id": "rs_60"
+  },
+  {
+    "valence": 30,
+    "arousal": 65,
+    "dominance": 35,
+    "item_id": "rs_61"
+  },
+  {
+    "valence": 65,
+    "arousal": 55,
+    "dominance": 60,
+    "item_id": "rs_62"
+  },
+  {
+    "valence": 15,
+    "arousal": 72,
+    "dominance": 56,
+    "item_id": "rs_63"
+  },
+  {
+    "valence": 62,
+    "arousal": 55,
+    "dominance": 58,
+    "item_id": "rs_64"
+  },
+  {
+    "valence": 58,
+    "arousal": 54,
+    "dominance": 49,
+    "item_id": "rs_65"
+  },
+  {
+    "valence": 60,
+    "arousal": 43,
+    "dominance": 41,
+    "item_id": "rs_66"
+  },
+  {
+    "valence": 86,
+    "arousal": 74,
+    "dominance": 62,
+    "item_id": "rs_67"
+  },
+  {
+    "valence": 20,
+    "arousal": 62,
+    "dominance": 25,
+    "item_id": "rs_68"
+  },
+  {
+    "valence": 42,
+    "arousal": 58,
+    "dominance": 40,
+    "item_id": "rs_69"
+  },
+  {
+    "valence": 67,
+    "arousal": 62,
+    "dominance": 58,
+    "item_id": "rs_70"
+  },
+  {
+    "valence": 92,
+    "arousal": 74,
+    "dominance": 61,
+    "item_id": "rs_71"
+  },
+  {
+    "valence": 38,
+    "arousal": 42,
+    "dominance": 54,
+    "item_id": "rs_72"
+  },
+  {
+    "valence": 82,
+    "arousal": 58,
+    "dominance": 63,
+    "item_id": "rs_73"
+  },
+  {
+    "valence": 84,
+    "arousal": 58,
+    "dominance": 64,
+    "item_id": "rs_74"
+  },
+  {
+    "valence": 87,
+    "arousal": 71,
+    "dominance": 68,
+    "item_id": "rs_75"
+  },
+  {
+    "valence": 35,
+    "arousal": 65,
+    "dominance": 55,
+    "item_id": "rs_76"
+  },
+  {
+    "valence": 55,
+    "arousal": 48,
+    "dominance": 54,
+    "item_id": "rs_77"
+  },
+  {
+    "valence": 68,
+    "arousal": 42,
+    "dominance": 54,
+    "item_id": "rs_78"
+  },
+  {
+    "valence": 82,
+    "arousal": 58,
+    "dominance": 56,
+    "item_id": "rs_79"
+  },
+  {
+    "valence": 52,
+    "arousal": 56,
+    "dominance": 64,
+    "item_id": "rs_80"
+  },
+  {
+    "valence": 62,
+    "arousal": 55,
+    "dominance": 58,
+    "item_id": "rs_81"
+  },
+  {
+    "valence": 80,
+    "arousal": 55,
+    "dominance": 60,
+    "item_id": "rs_82"
+  },
+  {
+    "valence": 78,
+    "arousal": 72,
+    "dominance": 56,
+    "item_id": "rs_83"
+  },
+  {
+    "valence": 58,
+    "arousal": 34,
+    "dominance": 61,
+    "item_id": "rs_84"
+  },
+  {
+    "valence": 84,
+    "arousal": 22,
+    "dominance": 55,
+    "item_id": "rs_85"
+  },
+  {
+    "valence": 65,
+    "arousal": 42,
+    "dominance": 55,
+    "item_id": "rs_86"
+  },
+  {
+    "valence": 58,
+    "arousal": 67,
+    "dominance": 71,
+    "item_id": "rs_87"
+  },
+  {
+    "valence": 22,
+    "arousal": 68,
+    "dominance": 31,
+    "item_id": "rs_88"
+  },
+  {
+    "valence": 82,
+    "arousal": 68,
+    "dominance": 60,
+    "item_id": "rs_89"
+  },
+  {
+    "valence": 66,
+    "arousal": 54,
+    "dominance": 58,
+    "item_id": "rs_90"
+  },
+  {
+    "valence": 58,
+    "arousal": 44,
+    "dominance": 55,
+    "item_id": "rs_91"
+  },
+  {
+    "valence": 80,
+    "arousal": 58,
+    "dominance": 54,
+    "item_id": "rs_92"
+  },
+  {
+    "valence": 25,
+    "arousal": 60,
+    "dominance": 65,
+    "item_id": "rs_93"
+  },
+  {
+    "valence": 42,
+    "arousal": 56,
+    "dominance": 68,
+    "item_id": "rs_94"
+  },
+  {
+    "valence": 91,
+    "arousal": 86,
+    "dominance": 74,
+    "item_id": "rs_95"
+  },
+  {
+    "valence": 72,
+    "arousal": 48,
+    "dominance": 54,
+    "item_id": "rs_96"
+  },
+  {
+    "valence": 42,
+    "arousal": 55,
+    "dominance": 44,
+    "item_id": "rs_97"
+  },
+  {
+    "valence": 15,
+    "arousal": 76,
+    "dominance": 64,
+    "item_id": "rs_98"
+  },
+  {
+    "valence": 18,
+    "arousal": 68,
+    "dominance": 22,
+    "item_id": "rs_99"
+  },
+  {
+    "valence": 88,
+    "arousal": 62,
+    "dominance": 55,
+    "item_id": "rs_100"
+  }
+]

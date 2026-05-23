@@ -1,0 +1,902 @@
+[
+  {
+    "valence_best": "864764317597609985",
+    "arousal_best": "909035573385551872",
+    "dominance_best": "909035573385551872",
+    "item_id": "pc_1"
+  },
+  {
+    "valence_best": "864837110527864832",
+    "arousal_best": "893399193737474048",
+    "dominance_best": "893399193737474048",
+    "item_id": "pc_2"
+  },
+  {
+    "valence_best": "910900136376782848",
+    "arousal_best": "943208238039920640",
+    "dominance_best": "943208238039920640",
+    "item_id": "pc_3"
+  },
+  {
+    "valence_best": "863364746577313792",
+    "arousal_best": "863364746577313792",
+    "dominance_best": "863364746577313792",
+    "item_id": "pc_4"
+  },
+  {
+    "valence_best": "908986176438247425",
+    "arousal_best": "908986176438247425",
+    "dominance_best": "908986176438247425",
+    "item_id": "pc_5"
+  },
+  {
+    "valence_best": "923249524981862400",
+    "arousal_best": "845724240552824832",
+    "dominance_best": "845724240552824832",
+    "item_id": "pc_6"
+  },
+  {
+    "valence_best": "830134096567341056",
+    "arousal_best": "902141686612193281",
+    "dominance_best": "902141686612193281",
+    "item_id": "pc_7"
+  },
+  {
+    "valence_best": "924442245297778689",
+    "arousal_best": "924442245297778689",
+    "dominance_best": "924442245297778689",
+    "item_id": "pc_8"
+  },
+  {
+    "valence_best": "881112328653197312",
+    "arousal_best": "881112328653197312",
+    "dominance_best": "881112328653197312",
+    "item_id": "pc_9"
+  },
+  {
+    "valence_best": "833266466342440960",
+    "arousal_best": "898633930911264768",
+    "dominance_best": "833266466342440960",
+    "item_id": "pc_10"
+  },
+  {
+    "valence_best": "894977549989761028",
+    "arousal_best": "894977549989761028",
+    "dominance_best": "819864483141193728",
+    "item_id": "pc_11"
+  },
+  {
+    "valence_best": "929386800522645508",
+    "arousal_best": "929386800522645508",
+    "dominance_best": "929386800522645508",
+    "item_id": "pc_12"
+  },
+  {
+    "valence_best": "839145863217889282",
+    "arousal_best": "921324851658461185",
+    "dominance_best": "921324851658461185",
+    "item_id": "pc_13"
+  },
+  {
+    "valence_best": "855700279915933698",
+    "arousal_best": "855700279915933698",
+    "dominance_best": "817407111378440195",
+    "item_id": "pc_14"
+  },
+  {
+    "valence_best": "905505634631680000",
+    "arousal_best": "905505634631680000",
+    "dominance_best": "905505634631680000",
+    "item_id": "pc_15"
+  },
+  {
+    "valence_best": "918513758036725761",
+    "arousal_best": "918513758036725761",
+    "dominance_best": "918513758036725761",
+    "item_id": "pc_16"
+  },
+  {
+    "valence_best": "826774125087633409",
+    "arousal_best": "826774125087633409",
+    "dominance_best": "915059102874824704",
+    "item_id": "pc_17"
+  },
+  {
+    "valence_best": "846751748672966657",
+    "arousal_best": "846751748672966657",
+    "dominance_best": "846751748672966657",
+    "item_id": "pc_18"
+  },
+  {
+    "valence_best": "836997448715350020",
+    "arousal_best": "836997448715350020",
+    "dominance_best": "836997448715350020",
+    "item_id": "pc_19"
+  },
+  {
+    "valence_best": "905158707486629889",
+    "arousal_best": "905158707486629889",
+    "dominance_best": "905158707486629889",
+    "item_id": "pc_20"
+  },
+  {
+    "valence_best": "867703984580169730",
+    "arousal_best": "867703984580169730",
+    "dominance_best": "917057431599026176",
+    "item_id": "pc_21"
+  },
+  {
+    "valence_best": "832979409518919681",
+    "arousal_best": "832979409518919681",
+    "dominance_best": "832979409518919681",
+    "item_id": "pc_22"
+  },
+  {
+    "valence_best": "824353425966190593",
+    "arousal_best": "831873161750777858",
+    "dominance_best": "831873161750777858",
+    "item_id": "pc_23"
+  },
+  {
+    "valence_best": "891356324289802240",
+    "arousal_best": "906447947092647936",
+    "dominance_best": "891356324289802240",
+    "item_id": "pc_24"
+  },
+  {
+    "valence_best": "901760751152623616",
+    "arousal_best": "901760751152623616",
+    "dominance_best": "901760751152623616",
+    "item_id": "pc_25"
+  },
+  {
+    "valence_best": "895773430737502209",
+    "arousal_best": "821233209107218432",
+    "dominance_best": "821233209107218432",
+    "item_id": "pc_26"
+  },
+  {
+    "valence_best": "886531287103791104",
+    "arousal_best": "898957436526014466",
+    "dominance_best": "898957436526014466",
+    "item_id": "pc_27"
+  },
+  {
+    "valence_best": "872197389276385280",
+    "arousal_best": "872197389276385280",
+    "dominance_best": "872197389276385280",
+    "item_id": "pc_28"
+  },
+  {
+    "valence_best": "902227588009132032",
+    "arousal_best": "902227588009132032",
+    "dominance_best": "925041483568353280",
+    "item_id": "pc_29"
+  },
+  {
+    "valence_best": "932714719814840320",
+    "arousal_best": "868644843614031872",
+    "dominance_best": "868644843614031872",
+    "item_id": "pc_30"
+  },
+  {
+    "valence_best": "825837382029209601",
+    "arousal_best": "825837382029209601",
+    "dominance_best": "825837382029209601",
+    "item_id": "pc_31"
+  },
+  {
+    "valence_best": "851888918207373312",
+    "arousal_best": "941257379060035584",
+    "dominance_best": "851888918207373312",
+    "item_id": "pc_32"
+  },
+  {
+    "valence_best": "825106228770697216",
+    "arousal_best": "825106228770697216",
+    "dominance_best": "926920815198662657",
+    "item_id": "pc_33"
+  },
+  {
+    "valence_best": "831967975611707392",
+    "arousal_best": "831967975611707392",
+    "dominance_best": "831967975611707392",
+    "item_id": "pc_34"
+  },
+  {
+    "valence_best": "829085472332857344",
+    "arousal_best": "866905574822338561",
+    "dominance_best": "829085472332857344",
+    "item_id": "pc_35"
+  },
+  {
+    "valence_best": "883090735326793733",
+    "arousal_best": "883090735326793733",
+    "dominance_best": "883090735326793733",
+    "item_id": "pc_36"
+  },
+  {
+    "valence_best": "869116348806422528",
+    "arousal_best": "869116348806422528",
+    "dominance_best": "869116348806422528",
+    "item_id": "pc_37"
+  },
+  {
+    "valence_best": "925426206710878208",
+    "arousal_best": "925426206710878208",
+    "dominance_best": "925426206710878208",
+    "item_id": "pc_38"
+  },
+  {
+    "valence_best": "900839107684958208",
+    "arousal_best": "900839107684958208",
+    "dominance_best": "900839107684958208",
+    "item_id": "pc_39"
+  },
+  {
+    "valence_best": "883987877922820100",
+    "arousal_best": "931428836029366274",
+    "dominance_best": "931428836029366274",
+    "item_id": "pc_40"
+  },
+  {
+    "valence_best": "913759942208839681",
+    "arousal_best": "913127148994646021",
+    "dominance_best": "913127148994646021",
+    "item_id": "pc_41"
+  },
+  {
+    "valence_best": "868813502097567745",
+    "arousal_best": "868813502097567745",
+    "dominance_best": "868813502097567745",
+    "item_id": "pc_42"
+  },
+  {
+    "valence_best": "893852298807582720",
+    "arousal_best": "893852298807582720",
+    "dominance_best": "893852298807582720",
+    "item_id": "pc_43"
+  },
+  {
+    "valence_best": "843889130606137344",
+    "arousal_best": "843889130606137344",
+    "dominance_best": "843889130606137344",
+    "item_id": "pc_44"
+  },
+  {
+    "valence_best": "862031016478859265",
+    "arousal_best": "849011970204413952",
+    "dominance_best": "862031016478859265",
+    "item_id": "pc_45"
+  },
+  {
+    "valence_best": "884809675413303296",
+    "arousal_best": "884809675413303296",
+    "dominance_best": "840555470788149248",
+    "item_id": "pc_46"
+  },
+  {
+    "valence_best": "874318156629762048",
+    "arousal_best": "815557023366516736",
+    "dominance_best": "874318156629762048",
+    "item_id": "pc_47"
+  },
+  {
+    "valence_best": "842646246192041985",
+    "arousal_best": "937464406115536896",
+    "dominance_best": "842646246192041985",
+    "item_id": "pc_48"
+  },
+  {
+    "valence_best": "848169663716626432",
+    "arousal_best": "848169663716626432",
+    "dominance_best": "848169663716626432",
+    "item_id": "pc_49"
+  },
+  {
+    "valence_best": "907637364759154689",
+    "arousal_best": "836691496636145664",
+    "dominance_best": "836691496636145664",
+    "item_id": "pc_50"
+  },
+  {
+    "valence_best": "918513758036725761",
+    "arousal_best": "918513758036725761",
+    "dominance_best": "918513758036725761",
+    "item_id": "pc_51"
+  },
+  {
+    "valence_best": "872197389276385280",
+    "arousal_best": "872197389276385280",
+    "dominance_best": "872197389276385280",
+    "item_id": "pc_52"
+  },
+  {
+    "valence_best": "842646246192041985",
+    "arousal_best": "827911993709514754",
+    "dominance_best": "842646246192041985",
+    "item_id": "pc_53"
+  },
+  {
+    "valence_best": "924442245297778689",
+    "arousal_best": "924442245297778689",
+    "dominance_best": "924442245297778689",
+    "item_id": "pc_54"
+  },
+  {
+    "valence_best": "905505634631680000",
+    "arousal_best": "905505634631680000",
+    "dominance_best": "905505634631680000",
+    "item_id": "pc_55"
+  },
+  {
+    "valence_best": "836997448715350020",
+    "arousal_best": "816343164676083714",
+    "dominance_best": "816343164676083714",
+    "item_id": "pc_56"
+  },
+  {
+    "valence_best": "851888918207373312",
+    "arousal_best": "839145863217889282",
+    "dominance_best": "851888918207373312",
+    "item_id": "pc_57"
+  },
+  {
+    "valence_best": "831967975611707392",
+    "arousal_best": "831967975611707392",
+    "dominance_best": "831967975611707392",
+    "item_id": "pc_58"
+  },
+  {
+    "valence_best": "821233209107218432",
+    "arousal_best": "821233209107218432",
+    "dominance_best": "909035573385551872",
+    "item_id": "pc_59"
+  },
+  {
+    "valence_best": "908986176438247425",
+    "arousal_best": "937464406115536896",
+    "dominance_best": "908986176438247425",
+    "item_id": "pc_60"
+  },
+  {
+    "valence_best": "840555470788149248",
+    "arousal_best": "840555470788149248",
+    "dominance_best": "840555470788149248",
+    "item_id": "pc_61"
+  },
+  {
+    "valence_best": "825106228770697216",
+    "arousal_best": "825106228770697216",
+    "dominance_best": "825106228770697216",
+    "item_id": "pc_62"
+  },
+  {
+    "valence_best": "943208238039920640",
+    "arousal_best": "943208238039920640",
+    "dominance_best": "943208238039920640",
+    "item_id": "pc_63"
+  },
+  {
+    "valence_best": "891356324289802240",
+    "arousal_best": "831873161750777858",
+    "dominance_best": "831873161750777858",
+    "item_id": "pc_64"
+  },
+  {
+    "valence_best": "833266466342440960",
+    "arousal_best": "836691496636145664",
+    "dominance_best": "836691496636145664",
+    "item_id": "pc_65"
+  },
+  {
+    "valence_best": "905158707486629889",
+    "arousal_best": "921324851658461185",
+    "dominance_best": "905158707486629889",
+    "item_id": "pc_66"
+  },
+  {
+    "valence_best": "843889130606137344",
+    "arousal_best": "843889130606137344",
+    "dominance_best": "843889130606137344",
+    "item_id": "pc_67"
+  },
+  {
+    "valence_best": "893399193737474048",
+    "arousal_best": "893399193737474048",
+    "dominance_best": "830331776258154496",
+    "item_id": "pc_68"
+  },
+  {
+    "valence_best": "886531287103791104",
+    "arousal_best": "867703984580169730",
+    "dominance_best": "886531287103791104",
+    "item_id": "pc_69"
+  },
+  {
+    "valence_best": "929386800522645508",
+    "arousal_best": "929386800522645508",
+    "dominance_best": "929386800522645508",
+    "item_id": "pc_70"
+  },
+  {
+    "valence_best": "818366770989907968",
+    "arousal_best": "818366770989907968",
+    "dominance_best": "925041483568353280",
+    "item_id": "pc_71"
+  },
+  {
+    "valence_best": "883029304875069440",
+    "arousal_best": "824645908784680960",
+    "dominance_best": "883029304875069440",
+    "item_id": "pc_72"
+  },
+  {
+    "valence_best": "832979409518919681",
+    "arousal_best": "841354135349952513",
+    "dominance_best": "832979409518919681",
+    "item_id": "pc_73"
+  },
+  {
+    "valence_best": "895773430737502209",
+    "arousal_best": "944973370520633344",
+    "dominance_best": "895773430737502209",
+    "item_id": "pc_74"
+  },
+  {
+    "valence_best": "898633930911264768",
+    "arousal_best": "898633930911264768",
+    "dominance_best": "902227588009132032",
+    "item_id": "pc_75"
+  },
+  {
+    "valence_best": "925426206710878208",
+    "arousal_best": "837728913325436929",
+    "dominance_best": "925426206710878208",
+    "item_id": "pc_76"
+  },
+  {
+    "valence_best": "869116348806422528",
+    "arousal_best": "869116348806422528",
+    "dominance_best": "869116348806422528",
+    "item_id": "pc_77"
+  },
+  {
+    "valence_best": "915059102874824704",
+    "arousal_best": "915059102874824704",
+    "dominance_best": "915059102874824704",
+    "item_id": "pc_78"
+  },
+  {
+    "valence_best": "898238119144804352",
+    "arousal_best": "906447947092647936",
+    "dominance_best": "898238119144804352",
+    "item_id": "pc_79"
+  },
+  {
+    "valence_best": "888471355435495425",
+    "arousal_best": "888471355435495425",
+    "dominance_best": "913759942208839681",
+    "item_id": "pc_80"
+  },
+  {
+    "valence_best": "825837382029209601",
+    "arousal_best": "825837382029209601",
+    "dominance_best": "825837382029209601",
+    "item_id": "pc_81"
+  },
+  {
+    "valence_best": "907637364759154689",
+    "arousal_best": "941799493917437955",
+    "dominance_best": "941799493917437955",
+    "item_id": "pc_82"
+  },
+  {
+    "valence_best": "894977549989761028",
+    "arousal_best": "913127148994646021",
+    "dominance_best": "913127148994646021",
+    "item_id": "pc_83"
+  },
+  {
+    "valence_best": "932714719814840320",
+    "arousal_best": "932714719814840320",
+    "dominance_best": "932714719814840320",
+    "item_id": "pc_84"
+  },
+  {
+    "valence_best": "902141686612193281",
+    "arousal_best": "902141686612193281",
+    "dominance_best": "902141686612193281",
+    "item_id": "pc_85"
+  },
+  {
+    "valence_best": "898957436526014466",
+    "arousal_best": "868644843614031872",
+    "dominance_best": "868644843614031872",
+    "item_id": "pc_86"
+  },
+  {
+    "valence_best": "863364746577313792",
+    "arousal_best": "868813502097567745",
+    "dominance_best": "863364746577313792",
+    "item_id": "pc_87"
+  },
+  {
+    "valence_best": "846751748672966657",
+    "arousal_best": "846751748672966657",
+    "dominance_best": "846751748672966657",
+    "item_id": "pc_88"
+  },
+  {
+    "valence_best": "848169663716626432",
+    "arousal_best": "931428836029366274",
+    "dominance_best": "931428836029366274",
+    "item_id": "pc_89"
+  },
+  {
+    "valence_best": "817407111378440195",
+    "arousal_best": "817407111378440195",
+    "dominance_best": "926920815198662657",
+    "item_id": "pc_90"
+  },
+  {
+    "valence_best": "911557328897544193",
+    "arousal_best": "845724240552824832",
+    "dominance_best": "845724240552824832",
+    "item_id": "pc_91"
+  },
+  {
+    "valence_best": "866905574822338561",
+    "arousal_best": "866905574822338561",
+    "dominance_best": "883987877922820100",
+    "item_id": "pc_92"
+  },
+  {
+    "valence_best": "824353425966190593",
+    "arousal_best": "910900136376782848",
+    "dominance_best": "910900136376782848",
+    "item_id": "pc_93"
+  },
+  {
+    "valence_best": "884809675413303296",
+    "arousal_best": "874318156629762048",
+    "dominance_best": "874318156629762048",
+    "item_id": "pc_94"
+  },
+  {
+    "valence_best": "881112328653197312",
+    "arousal_best": "849011970204413952",
+    "dominance_best": "881112328653197312",
+    "item_id": "pc_95"
+  },
+  {
+    "valence_best": "829085472332857344",
+    "arousal_best": "829085472332857344",
+    "dominance_best": "819864483141193728",
+    "item_id": "pc_96"
+  },
+  {
+    "valence_best": "928300532124528642",
+    "arousal_best": "815557023366516736",
+    "dominance_best": "928300532124528642",
+    "item_id": "pc_97"
+  },
+  {
+    "valence_best": "900839107684958208",
+    "arousal_best": "900839107684958208",
+    "dominance_best": "900839107684958208",
+    "item_id": "pc_98"
+  },
+  {
+    "valence_best": "933639881145962498",
+    "arousal_best": "864764317597609985",
+    "dominance_best": "933639881145962498",
+    "item_id": "pc_99"
+  },
+  {
+    "valence_best": "893852298807582720",
+    "arousal_best": "893852298807582720",
+    "dominance_best": "826774125087633409",
+    "item_id": "pc_100"
+  },
+  {
+    "valence_best": "898957436526014466",
+    "arousal_best": "898957436526014466",
+    "dominance_best": "898957436526014466",
+    "item_id": "pc_101"
+  },
+  {
+    "valence_best": "905505634631680000",
+    "arousal_best": "937464406115536896",
+    "dominance_best": "905505634631680000",
+    "item_id": "pc_102"
+  },
+  {
+    "valence_best": "918513758036725761",
+    "arousal_best": "866905574822338561",
+    "dominance_best": "918513758036725761",
+    "item_id": "pc_103"
+  },
+  {
+    "valence_best": "874318156629762048",
+    "arousal_best": "874318156629762048",
+    "dominance_best": "874318156629762048",
+    "item_id": "pc_104"
+  },
+  {
+    "valence_best": "932714719814840320",
+    "arousal_best": "932714719814840320",
+    "dominance_best": "932714719814840320",
+    "item_id": "pc_105"
+  },
+  {
+    "valence_best": "929386800522645508",
+    "arousal_best": "929386800522645508",
+    "dominance_best": "929386800522645508",
+    "item_id": "pc_106"
+  },
+  {
+    "valence_best": "925041483568353280",
+    "arousal_best": "817801846337261568",
+    "dominance_best": "925041483568353280",
+    "item_id": "pc_107"
+  },
+  {
+    "valence_best": "907637364759154689",
+    "arousal_best": "915059102874824704",
+    "dominance_best": "915059102874824704",
+    "item_id": "pc_108"
+  },
+  {
+    "valence_best": "884809675413303296",
+    "arousal_best": "821233209107218432",
+    "dominance_best": "821233209107218432",
+    "item_id": "pc_109"
+  },
+  {
+    "valence_best": "902227588009132032",
+    "arousal_best": "902227588009132032",
+    "dominance_best": "902227588009132032",
+    "item_id": "pc_110"
+  },
+  {
+    "valence_best": "851888918207373312",
+    "arousal_best": "851888918207373312",
+    "dominance_best": "851888918207373312",
+    "item_id": "pc_111"
+  },
+  {
+    "valence_best": "905158707486629889",
+    "arousal_best": "905158707486629889",
+    "dominance_best": "941799493917437955",
+    "item_id": "pc_112"
+  },
+  {
+    "valence_best": "901760751152623616",
+    "arousal_best": "818366770989907968",
+    "dominance_best": "901760751152623616",
+    "item_id": "pc_113"
+  },
+  {
+    "valence_best": "831873161750777858",
+    "arousal_best": "831873161750777858",
+    "dominance_best": "909035573385551872",
+    "item_id": "pc_114"
+  },
+  {
+    "valence_best": "924442245297778689",
+    "arousal_best": "924442245297778689",
+    "dominance_best": "888471355435495425",
+    "item_id": "pc_115"
+  },
+  {
+    "valence_best": "833266466342440960",
+    "arousal_best": "868813502097567745",
+    "dominance_best": "833266466342440960",
+    "item_id": "pc_116"
+  },
+  {
+    "valence_best": "836691496636145664",
+    "arousal_best": "913127148994646021",
+    "dominance_best": "836691496636145664",
+    "item_id": "pc_117"
+  },
+  {
+    "valence_best": "829085472332857344",
+    "arousal_best": "829085472332857344",
+    "dominance_best": "829085472332857344",
+    "item_id": "pc_118"
+  },
+  {
+    "valence_best": "819864483141193728",
+    "arousal_best": "841354135349952513",
+    "dominance_best": "819864483141193728",
+    "item_id": "pc_119"
+  },
+  {
+    "valence_best": "883987877922820100",
+    "arousal_best": "845724240552824832",
+    "dominance_best": "883987877922820100",
+    "item_id": "pc_120"
+  },
+  {
+    "valence_best": "849654610558058496",
+    "arousal_best": "849654610558058496",
+    "dominance_best": "830134096567341056",
+    "item_id": "pc_121"
+  },
+  {
+    "valence_best": "900839107684958208",
+    "arousal_best": "900839107684958208",
+    "dominance_best": "900839107684958208",
+    "item_id": "pc_122"
+  },
+  {
+    "valence_best": "883029304875069440",
+    "arousal_best": "889056087009308672",
+    "dominance_best": "889056087009308672",
+    "item_id": "pc_123"
+  },
+  {
+    "valence_best": "923249524981862400",
+    "arousal_best": "923249524981862400",
+    "dominance_best": "898238119144804352",
+    "item_id": "pc_124"
+  },
+  {
+    "valence_best": "843889130606137344",
+    "arousal_best": "843889130606137344",
+    "dominance_best": "843889130606137344",
+    "item_id": "pc_125"
+  },
+  {
+    "valence_best": "817407111378440195",
+    "arousal_best": "921324851658461185",
+    "dominance_best": "921324851658461185",
+    "item_id": "pc_126"
+  },
+  {
+    "valence_best": "893852298807582720",
+    "arousal_best": "893852298807582720",
+    "dominance_best": "893852298807582720",
+    "item_id": "pc_127"
+  },
+  {
+    "valence_best": "824353425966190593",
+    "arousal_best": "849011970204413952",
+    "dominance_best": "824353425966190593",
+    "item_id": "pc_128"
+  },
+  {
+    "valence_best": "891356324289802240",
+    "arousal_best": "891356324289802240",
+    "dominance_best": "891356324289802240",
+    "item_id": "pc_129"
+  },
+  {
+    "valence_best": "908986176438247425",
+    "arousal_best": "928300532124528642",
+    "dominance_best": "928300532124528642",
+    "item_id": "pc_130"
+  },
+  {
+    "valence_best": "943208238039920640",
+    "arousal_best": "893399193737474048",
+    "dominance_best": "893399193737474048",
+    "item_id": "pc_131"
+  },
+  {
+    "valence_best": "825837382029209601",
+    "arousal_best": "825837382029209601",
+    "dominance_best": "825837382029209601",
+    "item_id": "pc_132"
+  },
+  {
+    "valence_best": "881112328653197312",
+    "arousal_best": "881112328653197312",
+    "dominance_best": "881112328653197312",
+    "item_id": "pc_133"
+  },
+  {
+    "valence_best": "825106228770697216",
+    "arousal_best": "867703984580169730",
+    "dominance_best": "825106228770697216",
+    "item_id": "pc_134"
+  },
+  {
+    "valence_best": "869116348806422528",
+    "arousal_best": "869116348806422528",
+    "dominance_best": "869116348806422528",
+    "item_id": "pc_135"
+  },
+  {
+    "valence_best": "872197389276385280",
+    "arousal_best": "848169663716626432",
+    "dominance_best": "872197389276385280",
+    "item_id": "pc_136"
+  },
+  {
+    "valence_best": "925426206710878208",
+    "arousal_best": "906447947092647936",
+    "dominance_best": "925426206710878208",
+    "item_id": "pc_137"
+  },
+  {
+    "valence_best": "910900136376782848",
+    "arousal_best": "842646246192041985",
+    "dominance_best": "842646246192041985",
+    "item_id": "pc_138"
+  },
+  {
+    "valence_best": "836997448715350020",
+    "arousal_best": "886531287103791104",
+    "dominance_best": "886531287103791104",
+    "item_id": "pc_139"
+  },
+  {
+    "valence_best": "840555470788149248",
+    "arousal_best": "840555470788149248",
+    "dominance_best": "840555470788149248",
+    "item_id": "pc_140"
+  },
+  {
+    "valence_best": "881595365551734784",
+    "arousal_best": "902141686612193281",
+    "dominance_best": "902141686612193281",
+    "item_id": "pc_141"
+  },
+  {
+    "valence_best": "846751748672966657",
+    "arousal_best": "837728913325436929",
+    "dominance_best": "846751748672966657",
+    "item_id": "pc_142"
+  },
+  {
+    "valence_best": "832979409518919681",
+    "arousal_best": "832979409518919681",
+    "dominance_best": "832979409518919681",
+    "item_id": "pc_143"
+  },
+  {
+    "valence_best": "863364746577313792",
+    "arousal_best": "863364746577313792",
+    "dominance_best": "863364746577313792",
+    "item_id": "pc_144"
+  },
+  {
+    "valence_best": "944973370520633344",
+    "arousal_best": "917057431599026176",
+    "dominance_best": "944973370520633344",
+    "item_id": "pc_145"
+  },
+  {
+    "valence_best": "826774125087633409",
+    "arousal_best": "826774125087633409",
+    "dominance_best": "826774125087633409",
+    "item_id": "pc_146"
+  },
+  {
+    "valence_best": "831967975611707392",
+    "arousal_best": "815557023366516736",
+    "dominance_best": "831967975611707392",
+    "item_id": "pc_147"
+  },
+  {
+    "valence_best": "816343164676083714",
+    "arousal_best": "816343164676083714",
+    "dominance_best": "926920815198662657",
+    "item_id": "pc_148"
+  },
+  {
+    "valence_best": "827911993709514754",
+    "arousal_best": "931428836029366274",
+    "dominance_best": "931428836029366274",
+    "item_id": "pc_149"
+  },
+  {
+    "valence_best": "898633930911264768",
+    "arousal_best": "898633930911264768",
+    "dominance_best": "868644843614031872",
+    "item_id": "pc_150"
+  }
+]
