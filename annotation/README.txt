@@ -1,10 +1,10 @@
-This repository contains the data and notebook for the pilot experiment, i.e., annotating the first few items in batch 1 for each of the 3 methods.
+This repository contains the data and code for prompting LLMs to generate annotations for the present study.
 
-Already completed before the experiment:
-- id to text mapping for tweets
-- tuple generation for PC and BWS
+Content:
+prompting.ipynb: the notebook with code for prompting (single item tests, pilot tests, and finally annotating all tweets).
+rs_batch1.txt, pc_batch1.txt, bws_batch1.txt: the tweet ids of the tweets, pairs, or tuples for annotating with the 3 different methods.
+GPT-5.4-mini_29Apr, GPT-5.4-nano_29Apr, GPT-5.4_29Apr, rs10_30Apr: repositories of LLM-generated annotations (JSON files).
+bws_itemid_tweetids.csv, pc_itemid_tweetids: the mapping of pc/bws records to corresponding tweet ids, saved for future use.
 
-To be completed after this experiment:
-- Jupyter notebook -> .py file for annotating all items
-- converting PC and BWS results to real values
-- data analysis
+Apart from these, another file id2text_batch1.csv which maps the tweet ids to tweet texts is also used in prompting, but is not shared in this public repository as it contains tweet texts.
+The tweet text and mapping data are provided by my supervisor, as they were also used in conducting the original study.
