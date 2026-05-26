@@ -1,4 +1,4 @@
-This repository contains the data and code for generating tuples required for LLM annotation using pairwise comparison and best-worst scaling. 
+This directory contains the data and code for generating tuples required for LLM annotation using pairwise comparison and best-worst scaling. 
 
 Content:
 ID_1.txt: the IDs of the tweets to be annotated.
